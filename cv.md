@@ -1,5 +1,4 @@
-CV
-***
+**CV**
 1. Artsiom Vasileuski
 2. - discord: vasileuski
    - telegram: stoone
