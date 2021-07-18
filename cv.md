@@ -7,7 +7,7 @@ CV
 4. 2021-start learning Front-end in rs-school
 5. I will add it when it will be more complicated)
 6. Just started learning in rs-school on stage0
-7. 2017-Linguistic humanitarian college  
-   2021-MSLU
+7. - 2017-Linguistic humanitarian college  
+   - 2021-MSLU
 8. Upper-Intermediate(B2)
 
